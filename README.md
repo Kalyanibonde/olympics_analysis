@@ -5,4 +5,4 @@ Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 
 Live Demo: https://oda-campusx.herokuapp.com/
 
-Live hsoting- https://olympicsanalysiswithdata.streamlit.app/
+Live hosting- https://olympicsanalysiswithdata.streamlit.app/
